@@ -1,0 +1,40 @@
+@media ( max-width:600px ){
+body{
+   /* background-color: yellow;*/
+}
+
+.products{
+    display: inherit;
+    height: auto;
+
+
+}
+.product{
+    margin-top: auto;
+}
+
+.main_section{
+    padding :4%
+}
+
+.Contedor-main-otros-productos{
+    display: inherit;
+}
+
+
+.otros-producto{
+    display: inherit;
+}
+
+
+
+.Contedor-menciones{
+    display: inherit;
+}
+
+
+.otros-menciones{
+    display: inherit;
+}
+
+}
